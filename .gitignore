@@ -1,0 +1,10 @@
+@"
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pt
+*.mp4
+*.avi
+.vscode/
+"@ | Set-Content .gitignore
